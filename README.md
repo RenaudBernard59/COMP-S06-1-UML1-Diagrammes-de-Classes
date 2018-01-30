@@ -45,6 +45,34 @@ Analyse
 Un ordinateur est composé d'un ou plusieurs moniteurs, d'un boîtier, d'une souris optionnelle et d'un clavier. Un boîtier a un châssis métallique, une carte mère, plusieurs barrettes de mémoire (RAM, ROM et cache), un ventilateur optionnel, des supports de stockage (disquette, disque-dur, CD-ROM, DVD-ROM...), et des cartes périphériques (son, réseau, graphique...). Un ordinateur possède toujours au moins un lecteur de disquette et un disque-dur.
 Q: Représenter le diagramme de classe généralisé.
 
+* Ordinateur
+* Composants
+    - Moniteur
+    - Boîtier
+        + Chassis Métallique
+        + Carte mêre
+        + Barrêtes mémoire
+            * RAM
+            * ROM
+            * Cache
+        + Ventilateur (opt)
+        + Stockage
+            * Disquette (obl)
+            * Disque-dur (obl)
+            * CD-ROM
+            * DVD-ROM
+        + Cartes périphériques
+            * Son
+            * Réseau
+            * Graphique
+    - Souris (opt)
+    - Clavier
+
+
+
+
+
+
 
 
 
